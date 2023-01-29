@@ -30,6 +30,10 @@ EPPlus has no dependencies other than .NET.
 * Formula calculation 
 * Many more... 
 
+## EPPlus Features Under Development
+* easier chart support with mailmerge tags
+* support for newer charts
+
 ## Overview
 This project started with the source from ExcelPackage. It was a great project to start from.
 It had the basic functionality needed to read and write a spreadsheet.
