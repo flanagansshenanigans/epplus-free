@@ -34,6 +34,9 @@ EPPlus has no dependencies other than .NET.
 * easier chart support with mailmerge tags
 * support for newer charts
 
+## Future versions differences
+* Support for .Net Framework will be dropped
+
 ## Overview
 This project started with the source from ExcelPackage. It was a great project to start from.
 It had the basic functionality needed to read and write a spreadsheet.
