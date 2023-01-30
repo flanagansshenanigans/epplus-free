@@ -31,8 +31,8 @@ EPPlus has no dependencies other than .NET.
 * Many more... 
 
 ## EPPlus Features Under Development
-* easier chart support with mailmerge tags
-* support for newer charts
+* Easier chart support via mailmerge tags
+* Support for newer charts (e.g. Tree chart)
 
 ## Future versions differences
 * Support for .Net Framework will be dropped
